@@ -19,3 +19,5 @@ This has worked for the Dell P2415Qb 4k Display with the Dell Lattitude 7389  Mo
 4) You may need to set display1 and 2 to Laptop display (display1) then Dell display to (diplay 2) then set to duplicate displays.  Then plug in HDMI display as display 3 then extend displays 1 and 3.
 5)  I set laptop Dell to 125% scale and Dell 4k display to 150% scale and Seiki to 100%.
 Changes complete 9:59 AM 27Nov2019
+6) Found root cause.  It appears that there is a bad USB-C to DisplayPort cable.  Found this issue by moving cable and now the display does not respond at all.  Buy a new cable.
+Changes complete 10:06 AM 27Nov2019
